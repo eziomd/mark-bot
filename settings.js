@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
-global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.owner = ['989935689926']
+global.premium = ['989935689926']
+global.ownernomer = '989935689926'
+global.ownername = '𝗘𝗭𝗜𝗢'
+global.botname = '𝗡𝗘𝗪 𝗕𝗢𝗧 𝗘𝗭𝗜𝗢 𝗩𝟳'
+global.footer = '𝗘𝗭𝗜𝗢'
+global.ig = ''
+global.region = '××××'
+global.sc = '××××'
+global.myweb = '××××'
+global.packname = '𝕰𝗭𝗜𝗢 | 𝕸 × 𝗭 | 𝕳𝗔𝕮𝗞'
+global.author = '🦄'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
